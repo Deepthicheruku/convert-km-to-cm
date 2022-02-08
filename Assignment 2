@@ -1,0 +1,8 @@
+km=int(input("enter the km to convert:"))
+cm=(km*1000)
+print("cm",cm)
+
+Output: 
+enter the km to convert:30
+cm 30000
+> 
